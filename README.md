@@ -1,2 +1,1 @@
-# ne_duty
-Hour tracker for multiple departments with total hours tracked for the week.
+This is a very simple script I made originally for c3 Roleplay. All you have to do is setup departments with aceperms to use the commands. It webhooks for every time someone /clockon [department] and every time someone /clockoff [department]. It keeps track of hours for the week and then resets every Sunday and webhooks total hours tracked for each person.
