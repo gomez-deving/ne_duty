@@ -2,25 +2,5 @@ This is a very simple script I made originally for c3 Roleplay. All you have to 
 
 To setup the departments you need to edit the top of server.lua. DO NOT TOUCH shift_data.json.
 
-local departments = {
-    ["lsmpd"] = {
-        acePermission = "lsmpd.hours",
-        Name = "Los Santos Metro Police Department",
-        webhook = "WEBHOOK_HERE"
-    },
-    ["bcso"] = {
-        acePermission = "bcso.hours",
-        Name = "Blaine County Sheriff's Office",
-        webhook = "WEBHOOK_HERE"
-    },
-    ["safr"] = {
-        acePermission = "safr.hours",
-        Name = "San Andreas Fire & Rescue",
-        webhook = "WEBHOOK_HERE"
-    },
-    ["sasp"] = {
-        acePermission = "sasp.hours",
-        Name = "San Andreas State Police",
-        webhook = "WEBHOOK_HERE"
-    }
-}
+<img width="419" height="479" alt="image" src="https://github.com/user-attachments/assets/10c5f6b9-ba0d-4bd3-897e-b95c97ae7be9" />
+
